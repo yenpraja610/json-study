@@ -1,3 +1,5 @@
+[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
+
 # JSON Study
 
 ## Objectives
@@ -9,27 +11,18 @@ By the end of this, students should be able to:
 
 ## Instructions
 
-Read this document entirely. Follow any links and study their content. Readings
-and activities are **required** unless otherwise indicated.
+1.  Fork and clone this repository.
+1.  Change into the new directory.
+1.  Create and checkout a new branch, named `response`.
+1.  Follow the directions given in [`study.md`](study.md).
+1.  When finished, push to your fork and submit a pull request.
 
-## JSON
+You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
+related to [forking,
+cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone), and [pull
+requests](https://github.com/ga-wdi-boston/meta/wiki/PullRequest).
 
-JSON is a way to represent data. It's typically used to communicate data between
-a back-end (*api*) and a front-end (*client*). JSON is a string with a very
-specific format. JSON is formally defined [here](http://www.json.org/).
+## [License](LICENSE)
 
-[Example JSON strings](http://json.org/example.html) are a great way to become
-familiar with the format.
-
-JSON is not a dictionary. JSON is not an object, nor is it an object literal.
-JSON is only a string with a specific format.
-
-JSON cannot have comments, since it is just a string. Putting comments in JSON,
-or otherwise treating JSON as if it is a JavaScript object literal, is a common
-source of hard-to-debug errors.
-
-JSON cannot have methods, since it is a data exchange format. Since it only
-represents data, it cannot have behavior. It cannnot have behavior because it is
-not an object.
-
-JSON only looks like an object. It is not an object.
+Source code distributed under the MIT license. Text and other assets copyright
+General Assembly, Inc., all rights reserved.
